@@ -1,2 +1,2 @@
-# Sistema-de-Inventario
+# Sistema de Inventário
 Projeto Engenharia de Software - Sullivan
